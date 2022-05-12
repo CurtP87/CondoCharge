@@ -1,0 +1,21 @@
+﻿
+http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.113.html
+
+The 2020 Florida Statutes
+
+
+718.113 Maintenance; limitation upon improvement; display of flag; hurricane shutters and protection; display of religious decorations.—
+….
+(8) The Legislature finds that the use of electric vehicles conserves and protects the state’s environmental resources, provides significant economic savings to drivers, and serves an important public interest. The participation of condominium associations is essential to the state’s efforts to conserve and protect the state’s environmental resources and provide economic savings to drivers. Therefore, the installation of an electric vehicle charging station shall be governed as follows:
+(a) A declaration of condominium or restrictive covenant may not prohibit or be enforced so as to prohibit any unit owner from installing an electric vehicle charging station within the boundaries of the unit owner’s limited common element parking area. The board of administration of a condominium association may not prohibit a unit owner from installing an electric vehicle charging station for an electric vehicle, as defined in s. 320.01, within the boundaries of his or her limited common element parking area. The installation of such charging stations are subject to the provisions of this subsection.
+(b) The installation may not cause irreparable damage to the condominium property.
+(c) The electricity for the electric vehicle charging station must be separately metered and payable by the unit owner installing such charging station.
+(d) The unit owner who is installing an electric vehicle charging station is responsible for the costs of installation, operation, maintenance, and repair, including, but not limited to, hazard and liability insurance. The association may enforce payment of such costs pursuant to s. 718.116.
+(e) If the unit owner or his or her successor decides there is no longer a need for the electronic vehicle charging station, such person is responsible for the cost of removal of the electronic vehicle charging station. The association may enforce payment of such costs pursuant to s. 718.116.
+(f) The association may require the unit owner to:
+1. Comply with bona fide safety requirements, consistent with applicable building codes or recognized safety standards, for the protection of persons and property.
+2. Comply with reasonable architectural standards adopted by the association that govern the dimensions, placement, or external appearance of the electric vehicle charging station, provided that such standards may not prohibit the installation of such charging station or substantially increase the cost thereof.
+3. Engage the services of a licensed and registered electrical contractor or engineer familiar with the installation and core requirements of an electric vehicle charging station.
+4. Provide a certificate of insurance naming the association as an additional insured on the owner’s insurance policy for any claim related to the installation, maintenance, or use of the electric vehicle charging station within 14 days after receiving the association’s approval to install such charging station.
+5. Reimburse the association for the actual cost of any increased insurance premium amount attributable to the electric vehicle charging station within 14 days after receiving the association’s insurance premium invoice.
+(g) The association provides an implied easement across the common elements of the condominium property to the unit owner for purposes of the installation of the electric vehicle charging station and the furnishing of electrical power, including any necessary equipment, to such charging station, subject to the requirements of this subsection.

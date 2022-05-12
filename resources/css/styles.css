@@ -1,0 +1,23 @@
+body {
+  /* font-family: Helvetica, sans-serif; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  text-align: center;
+  margin: 0;
+ }
+
+h2 {
+  color: rgb(79, 237, 11);
+}
+h3 {
+  color: turquoise;
+}
+h4 {
+  color:rgb(10, 91, 8)
+}
+.item img {
+  padding-top: 4px;
+  padding-bottom: 6px;
+}
