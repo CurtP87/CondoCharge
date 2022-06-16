@@ -3,7 +3,7 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 22px;
   color: seashell;
-  background-color: black;
+  background-color: rgb(121, 28, 28);
   text-align: center;
   margin: 0;
  }
@@ -15,7 +15,7 @@ h3 {
   color: rgb(44, 9, 49);
 }
 h4 {
-  color:rgb(10, 91, 8)
+  color:rgb(232, 137, 43)
 }
 .item img {
   padding-top: 8px;
